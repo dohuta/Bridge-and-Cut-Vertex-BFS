@@ -1,9 +1,0 @@
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\obj\Debug\CS_B04.csprojResolveAssemblyReference.cache
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\obj\Debug\CS_B04.csproj.CoreCompileInputs.cache
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\bin\Debug\CS_B04.exe.config
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\bin\Debug\CS_B04.exe
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\bin\Debug\CS_B04.pdb
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\bin\Debug\MyAdjacencyList.dll
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\bin\Debug\MyAdjacencyList.pdb
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\obj\Debug\CS_B04.exe
-C:\Users\HUYNHDOHUYTAP\Desktop\GraphTheory\Lab2\CS_B04\obj\Debug\CS_B04.pdb
